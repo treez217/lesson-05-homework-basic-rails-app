@@ -9,5 +9,8 @@
 3) Once inside the app folder, run the following
  - ``bundle install``
  - ``bundle exec rake db:migrate``
+ 
+**DO NOT RUN ``rails s``** - this command has already been run on your behalf (as evidenced by the already generated rails project folders)
+ 
 
 
