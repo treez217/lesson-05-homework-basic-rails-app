@@ -6,7 +6,7 @@
 
 2) Navigate to the app folder using the command line
 
-3) Once inside the app folder, run the following
+3) Once inside the app folder, run the following from the command line
  - ``bundle install``
  - ``bundle exec rake db:migrate``
  
