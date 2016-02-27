@@ -10,7 +10,7 @@
  - ``bundle install``
  - ``bundle exec rake db:migrate``
  
-**DO NOT RUN ``rails s``** - this command has already been run on your behalf (as evidenced by the already generated rails project folders)
+**DO NOT RUN ``rails new [project name]``**  to create a new rails app - this command has already been run on your behalf (as evidenced by the already generated rails project folders)
  
 
 
