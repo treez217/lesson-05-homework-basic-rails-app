@@ -379,3 +379,234 @@ Processing by ArticlesController#index as HTML
   [1m[36mArticle Load (0.4ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
   Rendered articles/index.html.erb within layouts/application (4.0ms)
 Completed 200 OK in 49ms (Views: 46.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/articles" for ::1 at 2016-02-28 17:46:18 -0500
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.5ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 15ms (Views: 13.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/articles" for ::1 at 2016-02-28 17:46:34 -0500
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 25ms (Views: 24.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/articles" for ::1 at 2016-02-28 17:46:46 -0500
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.2ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 63ms (Views: 62.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-02-28 17:46:46 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-02-28 17:46:46 -0500
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-28 17:46:46 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-28 17:46:46 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-28 17:46:46 -0500
+
+
+Started GET "/articles" for ::1 at 2016-02-28 17:47:26 -0500
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 20ms (Views: 19.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-28 17:47:26 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-28 17:47:26 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-02-28 17:47:26 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-02-28 17:47:26 -0500
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-28 17:47:26 -0500
+
+
+Started GET "/articles" for ::1 at 2016-02-28 17:47:38 -0500
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.1ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 24ms (Views: 23.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-28 17:47:38 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-02-28 17:47:38 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-28 17:47:38 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-02-28 17:47:38 -0500
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-28 17:47:38 -0500
+
+
+Started GET "/articles" for ::1 at 2016-02-28 17:47:48 -0500
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 27ms (Views: 26.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-02-28 17:47:48 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-28 17:47:48 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-28 17:47:48 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-02-28 17:47:48 -0500
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-28 17:47:48 -0500
+
+
+Started GET "/articles" for ::1 at 2016-02-28 17:48:00 -0500
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.2ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (21.2ms)
+Completed 500 Internal Server Error in 27ms (ActiveRecord: 0.2ms)
+
+ActionView::Template::Error (undefined local variable or method `article' for #<#<Class:0x007f889976d328>:0x007f889f9cb268>):
+    3: <% @articles.each do | articles | %>
+    4: 	<p>
+    5: 
+    6: 	<h3> <span><%= article.title %> </span> </h3>
+    7: 
+    8: 	<p> <span><%= article.body %> </span> </p> 
+    9: 
+  app/views/articles/index.html.erb:6:in `block in _app_views_articles_index_html_erb__2668434479526785774_70112385060840'
+  app/views/articles/index.html.erb:3:in `_app_views_articles_index_html_erb__2668434479526785774_70112385060840'
+
+
+  Rendered /Users/derrickchou/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.5ms)
+  Rendered /Users/derrickchou/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.1ms)
+  Rendered /Users/derrickchou/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/derrickchou/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (70.6ms)
+  Rendered /Users/derrickchou/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/derrickchou/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/derrickchou/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/derrickchou/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/derrickchou/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (72.7ms)
+  Rendered /Users/derrickchou/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/derrickchou/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/derrickchou/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (151.5ms)
+
+
+Started GET "/articles" for ::1 at 2016-02-28 17:48:05 -0500
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.1ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 16ms (Views: 15.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-02-28 17:48:05 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-28 17:48:05 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-28 17:48:05 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-02-28 17:48:05 -0500
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-28 17:48:06 -0500
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (2.7ms)[0m  [1mINSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Jeb Bush Bungles Several Questions On First Day Back At Home"], ["body", "CORAL GABLES, FL—Noting how he repeatedly stumbled over his words and struggled to formulate convincing and consistent responses when asked by his wife about how he slept and what he wanted to have for breakfast, sources confirmed Monday that former presidential candidate Jeb Bush bungled numerous questions on his first day back at home. “You see—the thing is, breakfast—there are a number of options,” said Bush, anxiously reaching for a sip of water after delivering a meandering aside about why pancakes would be a reasonable choice, before awkwardly transitioning to a clumsy, forced anecdote about some bacon he recently had. “It’s an important question—you know what? Eggs. That’ll be—yes. Mmhmm.” Sources further reported Bush appeared helpless and forlorn after his request was drowned out by the louder, more confident answers from his children seated around the dining room table."], ["created_at", "2016-02-28 22:49:04.034223"], ["updated_at", "2016-02-28 22:49:04.034223"]]
+  [1m[35m (3.3ms)[0m  commit transaction
+
+
+Started GET "/articles" for ::1 at 2016-02-28 17:49:08 -0500
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.2ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 53ms (Views: 51.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-28 17:49:08 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-28 17:49:08 -0500
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-28 17:49:08 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-02-28 17:49:08 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-02-28 17:49:08 -0500
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (2.4ms)[0m  INSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["title", "More Realistic Meat Substitute Made From Soy Raised In Brutally Cruel Conditions"], ["body", "ROCHESTER, MN—Hailing it as the best-tasting and most satisfying such product on the market, vegetarian food manufacturer Greenwood Farms unveiled a more realistic meat substitute Friday made from soy raised in brutally cruel conditions.\n\nAccording to company spokespeople, the new line of “Nature’s Way” meatless products is made from soybeans grown and harvested in dark, cramped conditions where they suffer maltreatment and neglect from the moment they sprout, giving them a texture and flavor closer to that of factory-farmed beef, pork, and chicken.\n\n“When you sink your teeth into one of our veggie burgers, you’ll know this is the kind of flavor you can only get from soybeans that have never seen actual sunlight.”\n“Our vegetarian entrées and meal starters are the most authentically meat-like available on the market, because we make sure our soybeans are raised in filth-caked, overcrowded growing troughs in a windowless facility where daytime temperatures regularly exceed 120 degrees,” said Greenwood Farms marketing director Michael Latimer, adding that the beans’ rich, savory flavor is enhanced by the unsanitary conditions and the regular spread of disease and infection through the crop. “We also make sure our soybeans are pumped so full of a variety of powerful hormones and antibiotics that their growth is boosted far beyond what the plants are capable of naturally, giving our product the same delectable consistency as meat you find at your local grocery store.”\n\n“When you sink your teeth into one of our veggie burgers, you’ll know this is the kind of flavor you can only get from soybeans that have never seen actual sunlight,” he added.\n\nAccording to Latimer, the confined growing facilities are designed to restrict nearly all of the plants’ heliotropic movement and suppress their natural phytochrome production, which ensures that most of their available energy is dedicated to increasing their lipid-to-protein ratio, giving the beans the succulent, juicy texture of conventional beef or poultry. As a side effect, the soy’s stems are reportedly too weak to support the weight of their growing beans and the plants eventually collapse on themselves, which Latimer cites as a further indication that his company’s products are the most authentically meat-like on the market.\n\nLatimer explained that in order to maximize the number of beans per plot, plants are grown physically touching one another and are left to wallow in the discarded leaves and other fetid waste from their neighbors. Additionally, some young soybean sprouts are confined to pots barely larger than themselves as soon as they emerge, thus inhibiting healthy maturation and keeping them, according to Greenwood Farms’ promotional material, “mouthwateringly tender.”\n\nAfter the beans are mechanically separated from their pods at an age of only 45 days, Latimer said they are forced into overfilled tractor-trailers, with many being crushed under the weight of thousands of their fellow legumes. The soybeans then reportedly arrive at the processing facility, a steaming hot factory reeking with the stench of rotting bean hulls where every surface is said to be slick with plant effluvia.\n\n“To ensure our product reaches stores when it’s at its most succulent and moist, we rush to dry, shuck, and salt the beans as quickly as possible—meaning that many of them are still alive when they’re ground up in the turbo mills,” Latimer said. “After the soybeans have been completely pulverized, the leftover seed fragments, juices, and slurry that collect in the sluice grates in the facility’s floor are gathered so they can be used as fertilizer to be fed to the next generation of beans.”\n\n“It’s all part of our effort to go that extra mile and make sure our soybeans are treated with as little concern for their well-being and natural development as possible,” Latimer added. “And that’s a difference you can taste.”"], ["created_at", "2016-02-28 22:52:07.222133"], ["updated_at", "2016-02-28 22:52:07.222133"]]
+  [1m[36m (6.2ms)[0m  [1mcommit transaction[0m
+
+
+Started GET "/articles" for ::1 at 2016-02-28 17:52:11 -0500
+Processing by ArticlesController#index as HTML
+  [1m[36mArticle Load (0.2ms)[0m  [1mSELECT "articles".* FROM "articles"[0m
+  Rendered articles/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 46ms (Views: 44.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-28 17:52:11 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-02-28 17:52:11 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-02-28 17:52:11 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-28 17:52:11 -0500
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-28 17:52:11 -0500
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (1.2ms)[0m  [1mINSERT INTO "articles" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Family Has Strict No Smartphone Rule While Eating Dinner In Front Of TV"], ["body", "TRUMBULL, CT—Saying it’s the only time of day when everyone can be together in one place, the Gleason family confirmed Thursday that it strictly forbids smartphones to be used while eating dinner in front of the television. “Dinner is a chance for us to sit down as a whole family—is it really so much to ask that everyone puts down their phone for just one hour while we eat and watch some TV?” said mother Diane Gleason, adding that the rule gives the busy family of four a chance to enjoy shows stored on DVR without getting sidetracked by checking Facebook, playing games, or reading text messages. “We’re all so attached to our devices that we sometimes forget about taking time to come together for a little while, set aside our technological distractions, and watch The Big Bang Theory as a family. The kids may groan about it, but if it wasn’t for dinner, none of us might be caught up on any shows at all.” Gleason went on to say that even she had days when she’d rather be on her phone than watching The Voice, but knew it was important for the family that she follow the household rule at all times."], ["created_at", "2016-02-28 22:54:30.414614"], ["updated_at", "2016-02-28 22:54:30.414614"]]
+  [1m[35m (2.9ms)[0m  commit transaction
+
+
+Started GET "/articles" for ::1 at 2016-02-28 17:54:35 -0500
+Processing by ArticlesController#index as HTML
+  [1m[35mArticle Load (0.4ms)[0m  SELECT "articles".* FROM "articles"
+  Rendered articles/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 17ms (Views: 16.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-02-28 17:54:35 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-02-28 17:54:35 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-02-28 17:54:35 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-02-28 17:54:35 -0500
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-02-28 17:54:35 -0500
