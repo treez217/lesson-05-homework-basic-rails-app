@@ -1,12 +1,9 @@
 <h1>Techcrunch Bootleg</h1>
 
 <% @articles.each do | article | %>
-	<p>
+	
+<h3> <%= article.title %> </h3>
 
-	<h3> <span><%= article.title %> </span> </h3>
-
-	<p> <span><%= article.body %> </span> </p> 
-
-	</p>
+<p> <%= article.body %> </p> 
 
 <% end %>
